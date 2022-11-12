@@ -101,7 +101,6 @@ C:\Users\ACER NITRO\Desktop\test_project_3\test_3\test_3\bin\Microsoft.Owin.Secu
 C:\Users\ACER NITRO\Desktop\test_project_3\test_3\test_3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\ACER NITRO\Desktop\test_project_3\test_3\test_3\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\ACER NITRO\Desktop\test_project_3\test_3\test_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ACER NITRO\Desktop\test_project_3\test_3\test_3\obj\Debug\test_3.csproj.AssemblyReference.cache
 C:\Users\ACER NITRO\Desktop\test_project_3\test_3\test_3\obj\Debug\test_3.csproj.CoreCompileInputs.cache
 C:\Users\ACER NITRO\Desktop\test_project_3\test_3\test_3\obj\Debug\test_3.csproj.CopyComplete
 C:\Users\ACER NITRO\Desktop\test_project_3\test_3\test_3\obj\Debug\test_3.dll
